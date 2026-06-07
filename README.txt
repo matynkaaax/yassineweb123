@@ -10,3 +10,4 @@ Kredity:
 		Bootstrap: 			(https://www.getbootstrap.com)
 		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
 
+bohužel origo web už není dostupný ale stále se můžete kouknout přes github page. :)
